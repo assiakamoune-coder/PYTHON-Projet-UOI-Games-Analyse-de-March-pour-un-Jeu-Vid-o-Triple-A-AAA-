@@ -48,14 +48,14 @@ Le projet ne se limite pas à des observations globales, il valide chaque hypoth
 * **Genre recommandé** : Action-RPG Narratif.
 * **Prix cible** : 59,99 € pour le jeu de base.
 * **Prévisions** : Objectif de 1,5 à 2,5 millions d'unités la première année sous condition de note Metacritic > 80.
-
+* **Plateformes prioritaires** : PC et PS5 (exploitant le Ray Tracing et les SSD).
 ---
 ## Analyse du segment:
-- Profil : Le "Core Gamer" passionné.
-- Plateforme de prédilection : Principalement PC et PS5. Ces joueurs privilégient la performance technique.
-- Comportement d'achat : Très sélectif (3 à 5 jeux par an). Il ne "consomme" pas, il choisit ses expériences.
-- Sensibilité à la qualité : Avec une importance moyenne de 4/5 accordée aux notes (Metacritic/Presse), ce segment n'achète que si le jeu est une réussite critique.
-- Budget : Prêt à investir entre 50€ et 60€ pour un jeu complet, confirmant que le prix "Premium" est accepté pour la qualité AAA.
+- **Profil** : Le "Core Gamer" passionné.
+- **Plateforme de prédilection** : Principalement PC et PS5. Ces joueurs privilégient la performance technique.
+- **Comportement d'achat** : Très sélectif (3 à 5 jeux par an). Il ne "consomme" pas, il choisit ses expériences.
+- **Sensibilité à la qualité** : Avec une importance moyenne de 4/5 accordée aux notes (Metacritic/Presse), ce segment n'achète que si le jeu est une réussite critique.
+- **Budget** : Prêt à investir entre 50€ et 60€ pour un jeu complet, confirmant que le prix "Premium" est accepté pour la qualité AAA.
 
 ---
 
@@ -63,4 +63,5 @@ Le projet ne se limite pas à des observations globales, il valide chaque hypoth
 - [**Présentation stratégique (SWOT, PESTEL, Recommandations)**](./Kamoune_Asiia_1_Presentation_042026.pptx)
 - [**Analyse de données incluant les TCD, les tests d'hypothèses**](./Kamoune_Assia_2_Analyses_042026.xlsx)
 - [**Données brutes issues du questionnaire**](./jeux-vidéo-AAA-Responses.csv)
-- [**Base de données historique des ventes de jeux**](./VideoGame_Sales_1980-2016.xlsb)* **Plateformes prioritaires** : PC et PS5 (exploitant le Ray Tracing et les SSD).
+- [**Base de données historique des ventes de jeux**](./VideoGame_Sales_1980-2016.xlsb)
+  
