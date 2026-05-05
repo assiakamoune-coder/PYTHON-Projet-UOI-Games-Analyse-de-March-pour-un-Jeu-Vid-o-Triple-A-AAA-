@@ -62,6 +62,6 @@ Le projet ne se limite pas à des observations globales, il valide chaque hypoth
 ## 📁Livrables
 - [**Présentation stratégique (SWOT, PESTEL, Recommandations)**](./Kamoune_Asiia_1_Presentation_042026.pptx)
 - [**Analyse de données incluant les TCD, les tests d'hypothèses**](./Kamoune_Assia_2_Analyses_042026.xlsx)
-- [**Données brutes issues du questionnaire**](./jeux-vidéo-AAA-Responses.csv)
-- [**Base de données historique des ventes de jeux**](./VideoGame_Sales_1980-2016.xlsb)
+- [**Données brutes issues du questionnaire**](./jeux-vidéo-AAA-Responses.xlsx)
+- [**Base de données historique des ventes de jeux**](./VideoGame_Sales_1980-2016+(1).xlsb)
   
